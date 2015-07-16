@@ -1,0 +1,32 @@
+{
+  "name": "hexa-color-regex",
+  "version": "1.0.0",
+  "description": "regex for the future spec of hexa (hex with alpha)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "jscs ./*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:btholt/hexa-color-regex.git"
+  },
+  "keywords": [
+    "hexa",
+    "regex",
+    "hex",
+    "color"
+  ],
+  "author": "Brian Holt <btholt@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/btholt/hexa-color-regex/issues"
+  },
+  "homepage": "https://github.com/btholt/hexa-color-regex",
+  "devDependencies": {
+    "chai": "^3.0.0",
+    "jscs": "^1.13.1",
+    "jscs-jsdoc": "^1.1.0",
+    "mocha": "^2.2.5"
+  }
+}
