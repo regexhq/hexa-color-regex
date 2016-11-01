@@ -25,8 +25,8 @@
   "homepage": "https://github.com/btholt/hexa-color-regex",
   "devDependencies": {
     "chai": "^3.0.0",
-    "jscs": "^1.13.1",
-    "jscs-jsdoc": "^1.1.0",
-    "mocha": "^2.2.5"
+    "jscs": "^3.0.7",
+    "jscs-jsdoc": "^2.0.0",
+    "mocha": "^3.1.2"
   }
 }
